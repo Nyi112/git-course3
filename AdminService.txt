@@ -1,2 +1,4 @@
 add and remove users
-change the roles 
+change the roles gi
+
+changing name
